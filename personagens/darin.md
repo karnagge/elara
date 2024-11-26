@@ -3,7 +3,7 @@
 ## Características Básicas
 - **Nome Completo:** Darin Winters
 - **Idade:** 20 anos
-- **Ocupação:** Aprendiz de curandeiro e agricultor
+- **Ocupação:** Aprendiz de cartógrafo e ajudante na propriedade familiar
 - **Relacionamento:** Solteiro
 - **Papel na História:** Ponte entre tradição e mudança
 
@@ -37,11 +37,12 @@
 - Encontrar seu próprio caminho
 
 ## Habilidades e Conhecimentos
-- Conhecimento de ervas medicinais
+- Noções básicas de cartografia e desenho de mapas
+- Atenção aos detalhes
 - Habilidade em mediação de conflitos
-- Técnicas agrícolas tradicionais
-- Compreensão profunda da natureza
-- Capacidade de leitura e escrita antiga
+- Dedicação ao trabalho meticuloso
+- Capacidade de leitura e escrita
+- Conhecimentos práticos de agricultura familiar
 
 ## Relacionamentos
 

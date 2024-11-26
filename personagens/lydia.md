@@ -28,7 +28,6 @@
 - Luta entre proteger Elara e deixá-la crescer
 - Guarda segredos sobre o passado da família
 - Teme que as mudanças na vila destruam antigas tradições
-- Conflito entre seu conhecimento místico e as novas tecnologias
 
 ### Motivações
 - Preservar o conhecimento ancestral
