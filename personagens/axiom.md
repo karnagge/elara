@@ -1,7 +1,7 @@
-# Axiom
+# Orin
 
 ## Características Básicas
-- **Designação:** Axiom-Prime
+- **Designação:** Orin-Prime
 - **Função:** Líder Espiritual do Templo da Probabilidade
 - **Altura:** 2 metros
 - **Status:** Mártir (assassinado pelos robôs etéreos)
