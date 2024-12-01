@@ -29,8 +29,29 @@
 - **Ambientes como Espelho**: Reflexo de conflitos internos
 
 ## Estilos de Escrita e POVs
-- **Elara (Estilo Rothfuss + Zafón)**: Lírica e misteriosa, com metáforas que abrangem natureza, vida rural, transformação pessoal, e complexidade do universo. Descrições líricas e contemplativas, criando uma atmosfera noir em momentos-chave, com tons sombrios e introspectivos.
-- **Zion (Estilo Weir)**: Pragmático e bem-humorado, com ironia inteligente e sarcasmo bem colocado. Referências técnicas precisas e objetividade nas descrições, usando humor como mecanismo de defesa. Reflete sua curiosidade insaciável e introspecção profunda, equilibrando lógica com a busca por significado.
+- **Elara (Estilo Rothfuss + Zafón)**:
+  - Narração em primeira pessoa
+  - Lírica e misteriosa
+  - Metáforas que abrangem natureza, vida rural, transformação pessoal
+  - Descrições líricas e contemplativas
+  - Atmosfera noir em momentos-chave
+  - Tons sombrios e introspectivos
+
+- **Zion (Estilo Weir)**:
+  - Narração em terceira pessoa
+  - Pragmático e bem-humorado
+  - Ironia inteligente e sarcasmo bem colocado
+  - Referências técnicas precisas
+  - Objetividade nas descrições
+  - Humor como mecanismo de defesa
+  - Equilíbrio entre lógica e busca por significado
+
+## Alternância de POV
+- Manter consistência no estilo de narração:
+  - Cenas com POV da Elara: sempre em primeira pessoa
+  - Cenas com POV do Zion: sempre em terceira pessoa
+- Transições claras entre POVs
+- Manter a voz única de cada personagem
 
 ## Checklist de Revisão
 - Eliminar filter words

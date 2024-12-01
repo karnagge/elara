@@ -60,17 +60,63 @@ Filter words são palavras ou frases que criam uma distância desnecessária ent
 
 ## Exceções e Usos Apropriados
 
-### 1. Ênfase Intencional
-- Quando a percepção é crucial para a cena
+### 1. Diálogos e Falas
+- Em diálogos naturais entre personagens
+  - ✅ "Eu vi você ontem no mercado" (em diálogo)
+  - ✅ "Você consegue ouvir isso?" (em diálogo)
+- Em monólogos internos diretos
+  - ✅ "Pensei comigo mesma que aquilo não fazia sentido"
+
+### 2. Reflexões do Personagem
+- Em fluxo de consciência
+- Em memórias específicas
+- Em momentos de autodescoberta
+- Quando revelam características importantes do personagem
+  - ✅ "Sempre soube que havia algo diferente em mim" (reflexão caracterizadora)
+
+### 3. Momentos Cruciais da Narrativa
+- Quando a percepção é fundamental para a cena
+  - ✅ "Vi o assassino pela primeira vez naquela noite" (momento crucial)
+- Em revelações importantes
 - Para destacar um momento específico de realização
+- Em pontos de virada da trama
 
-### 2. Voz do Personagem
-- Em diálogos naturais
-- Em reflexões diretas do personagem
-
-### 3. Contraste de Percepção
+### 4. Contraste de Percepções
 - Quando diferentes personagens percebem a mesma coisa de formas distintas
-- Para estabelecer um ponto de vista único
+- Para estabelecer conflitos baseados em diferentes interpretações
+- Em cenas com múltiplos pontos de vista
+  - ✅ "João viu apenas uma sombra, mas Maria percebeu a forma humana"
+
+### 5. Propósito Estilístico
+- Para criar efeito literário intencional
+- Em narrativas experimentais
+- Para estabelecer tom ou voz única
+- Em momentos de ironia ou humor
+
+### 6. Contextos Técnicos
+- Em descrições científicas ou técnicas
+- Em relatórios ou documentos dentro da narrativa
+- Em cenas que envolvem investigação ou análise
+  - ✅ "O detetive notou as marcas peculiares na parede"
+
+## Diretrizes para Uso Apropriado
+
+1. Verifique se a filter word:
+   - Serve a um propósito específico na narrativa
+   - É essencial para o entendimento da cena
+   - Contribui para o desenvolvimento do personagem
+   - Está em um dos contextos apropriados listados acima
+
+2. Mesmo em contextos apropriados, considere:
+   - Se há formas mais diretas de expressar a mesma ideia
+   - Se a frequência de uso está adequada
+   - Se o impacto na imersão do leitor é justificável
+
+3. Perguntas para avaliar o uso:
+   - A filter word é necessária para a compreensão?
+   - Ela adiciona valor à narrativa?
+   - Existe uma forma mais direta de expressar a mesma ideia?
+   - O uso está alinhado com o estilo e tom da narrativa?
 
 ## Exercício Prático de Revisão
 
