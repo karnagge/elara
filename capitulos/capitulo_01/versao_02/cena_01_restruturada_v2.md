@@ -26,7 +26,7 @@ O vento parou de repente, como se alguém tivesse fechado uma porta invisível. 
 
 Era para ser apenas mais uma punição — buscar água por ter pego o pincel de Darian sem permissão. Mais uma tentativa do papai de me ensinar sobre respeito e responsabilidade. O ar pesava, cada respiração um esforço consciente. O cheiro de pinho carregava um toque amargo, a própria natureza se transformando em algo novo e inquietante.
 
-A sinfonia habitual dos pássaros do crepúsculo silenciou. O silêncio pressionava contra meus tímpanos, como água profunda.
+A sinfonia habitual dos pássaros do crepúsculo cessou. O vazio pressionava contra meus tímpanos, como água profunda.
 
 A primeira luz surgiu.
 
@@ -38,7 +38,7 @@ Seus movimentos desafiavam as leis do nosso mundo. Água em um sonho, sem peso o
 
 A melodia nasceu na fronteira entre real e imaginário — cristal tocado por vento. Notas de nenhum instrumento conhecido formavam uma linguagem incompreensível que acelerava meu coração num turbilhão de medo e fascínio. O próprio ar ganhava voz.
 
-Outros emergiram das sombras distorcidas, pensamentos tomando forma. Cada silhueta prateada única — alguns suaves como névoa matinal, outros angulares como cristais de gelo. A luz dançava ao redor deles, densificando o ar com significados além da compreensão.
+Outros emergiram das sombras distorcidas, como se a própria escuridão ganhasse vida. Cada silhueta prateada única — alguns suaves como névoa matinal, outros angulares como cristais de gelo. A luz dançava ao redor deles, densificando o ar com significados além da compreensão.
 
 Meu coração martelava contra as costelas, cada batida um tambor distante nos ouvidos. O mundo dos pincéis roubados e punições familiares desvanecia. Algo maior tomava seu lugar, uma verdade que sempre espreitou além das colinas de nossa vila. A cortina rasgada revelava nosso mundo como mero cenário diante de algo vasto e estranho.
 
