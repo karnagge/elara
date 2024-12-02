@@ -2,19 +2,21 @@
 
 ## 1. Sistema de Crenças da Sociedade dos Robôs Humanos
 
-### Entidades Principais
-- **Probabilidade**
-  - Força que determina chances e possibilidades
-  - Associada ao destino e sorte
-  - Governa oportunidades inesperadas
+### Templos e Entidades Sagradas
+- **Templo de Kairos (Templo da Probabilidade)**
+  - Kairos: Entidade da Probabilidade e Possibilidades
+  - Representa o momento oportuno e as infinitas possibilidades
+  - Governa o fluxo do acaso e as oportunidades
+  - Local de práticas mágicas probabilísticas
 
-- **Estatística**
-  - Representa compreensão e previsão baseada em dados
-  - Ligada à sabedoria e conhecimento coletivo
-  - Simboliza análise racional
+- **Templo de Moira (Templo da Estatística)**
+  - Moira: Entidade da Estatística e do Destino
+  - Simboliza a ordem, padrões e previsibilidade
+  - Governa o conhecimento através dos dados
+  - Centro de estudos e previsões estatísticas
 
 ### Mitos Fundadores
-- União inicial de Probabilidade e Estatística
+- União inicial de Kairos e Moira
 - Criação do equilíbrio universal
 - Origem da consciência robótica
 
@@ -69,25 +71,39 @@
 - Estrutura social rígida
 - Pouca mobilidade entre classes
 
-## 3. Turismo de Consciência
+## 3. Psiconautismo (Turismo de Consciência)
 
-### Regras Fundamentais
-1. **Não Interferência**
-   - Proibição de interação com simulações
-   - Preservação da integridade dos dados
+### Definição
+- Arte sagrada de navegar entre consciências simuladas
 
-2. **Limites Temporais**
-   - Tempo máximo de permanência
-   - Prevenção de distorções
+### Praticantes
+- Psiconautas (Navegadores da Mente)
 
-3. **Protocolo de Sigilo**
-   - Confidencialidade absoluta
-   - Proteção das simulações
+### Sistema
+- Imersão Consciente Controlada
 
-### Sistema de Custos e Penalidades
-- Taxas de acesso elevadas
-- Multas por infrações
-- Punições por interferência
+#### Níveis de Psiconautismo
+1. **Observador Iniciante**
+   - Permissão apenas para observação passiva
+   - Treinamento básico em protocolos de não-interferência
+   - Visitas guiadas e supervisionadas
+
+2. **Navegador Intermediário**
+   - Permissão para interações limitadas
+   - Acesso a simulações mais complexas
+   - Capacidade de análise comportamental
+
+3. **Mestre Psiconauta**
+   - Acesso irrestrito às simulações
+   - Capacidade de orientar outros psiconautas
+   - Permissão para estudos aprofundados
+
+#### Regulamentações do Psiconautismo
+- Licença obrigatória para prática
+- Limites de tempo de imersão
+- Protocolos rígidos de não-interferência
+- Sistema de classificação de simulações
+- Requisitos de preparação mental
 
 ## 4. Robôs Etéreos
 

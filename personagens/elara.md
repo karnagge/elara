@@ -3,131 +3,98 @@
 ## Características Básicas
 - **Nome Completo:** Elara Winters
 - **Idade:** 17 anos
-- **Ocupação:** Ajudante na vila (relutante)
+- **Natureza:** Consciência simulada em Edenia
 - **Status:** Protagonista
-- **Papel na História:** Heroína em descoberta, consciência fundida com Zion
+- **Papel na História:** Heroína em jornada de autodescoberta
 
 ## Aparência Física
 - Estatura mediana (1,65m)
 - Corpo esbelto e ágil
 - Cabelos castanhos escuros ondulados até metade das costas
-- Olhos verdes com manchas douradas próximas às pupilas
+- Olhos verdes com manchas douradas próximas às pupilas (detalhe que sugere sua natureza não-humana)
 - Pele bronzeada com sardas no nariz e bochechas
 - Postura desafiadora e movimentos inquietos
-
-## Estilo Pessoal
-- Vestidos simples em tons terrosos
-- Detalhes personalizados e únicos
-- Cordão com pingente de folha
-- Faixas coloridas na cintura
-- Trança desalinhada característica
-- Pequenas modificações rebeldes no vestuário tradicional
 
 ## Personalidade
 
 ### Traços Dominantes
-- Rebelde e indomável
-- Determinada e corajosa
-- Questionadora nato
+- Rebelde e questionadora
+- Determinada e resiliente
 - Intuitiva e perceptiva
-- Orgulhosa e confiante
-- Desafiadora de autoridade
+- Empática, apesar de sua natureza artificial
+- Forte senso de justiça
+- Capacidade de adaptação excepcional
 
-### Conflitos Internos
-- Desejo de pertencer vs. necessidade de ser diferente
-- Amor familiar vs. rejeição às tradições
-- Orgulho vs. vulnerabilidade
-- Busca por identidade vs. expectativas sociais
-- Realidade percebida vs. realidade apresentada
+### Conflitos Centrais
+- Descoberta de sua natureza simulada vs. senso de identidade
+- Questionamento sobre o que define ser "real"
+- Amor pela família vs. descoberta de sua artificialidade
+- Desenvolvimento de sentimentos por Zion vs. conflitos de personalidade
+- Desejo de proteger seu mundo vs. descoberta de sua natureza simulada
 
-### Motivações
-- Descobrir seu verdadeiro propósito
-- Escapar das limitações da vila
-- Entender as anomalias que percebe
-- Provar seu valor além das tradições
-- Encontrar liberdade e aventura
+## Relacionamentos Principais
 
-## Habilidades e Talentos
-- Percepção aguçada de padrões
-- Adaptabilidade excepcional
-- Pensamento crítico desenvolvido
-- Agilidade física natural
-- Intuição forte para o sobrenatural
+### Família
+- **Gareth (Pai):** Relação complexa de amor e rebeldia; posteriormente marcada pela descoberta da simulação
+- **Lydia (Mãe):** Vínculo profundo que transcende a natureza artificial de sua existência
+- **Darin (Irmão):** Conexão que a ajuda a entender que amor verdadeiro existe independente da origem
 
-## Relacionamentos
+### Zion
+- Fusão de consciências no corpo robótico dele
+- Evolução de conflito para admiração mútua
+- Desenvolvimento gradual de sentimentos românticos
+- Aprendizado sobre humanidade através de suas diferenças
 
-### Com a Família
-- Tensão constante com o pai
-- Complexidade com a mãe
-- Amor frustrado pelo irmão
-- Batalha entre afeto e rebeldia
-
-### Com Zion
-- Conexão profunda e única
-- Conflito e harmonia simultâneos
-- Dependência mútua
-- Crescimento conjunto
-
-### Com a Comunidade
-- Outsider por escolha
-- Rejeição às normas sociais
-- Incompreendida pelos pares
-- Potencial não reconhecido
-
-## História Pessoal
-- Infância marcada por questionamentos
-- Crescente sensação de deslocamento
-- Percepção precoce de anomalias
-- Desenvolvimento de comportamento rebelde
-- Busca constante por respostas
-
-## Medos e Inseguranças
-- Medo secreto de estar realmente sozinha
-- Insegurança sobre seu lugar no mundo
-- Temor de estar perdendo a sanidade
-- Receio de decepcionar a família
-- Medo de estar desperdiçando seu potencial
-
-## Sonhos e Aspirações
-- Descobrir mundos além da vila
-- Entender sua conexão com as anomalias
-- Encontrar outros como ela
-- Criar seu próprio destino
-- Provar seu valor ao mundo
-
-## Peculiaridades e Detalhes
-- Hábito de observar padrões em tudo
-- Coleção secreta de objetos "estranhos"
-- Diário de anomalias observadas
-- Rituais pessoais de rebeldia
+### Astro
+- Amizade que ajuda a redefinir o conceito de "ser vivo"
+- Companheiro leal em sua jornada
+- Ponte entre o mundo orgânico e artificial
 
 ## Arco de Desenvolvimento
-- Da rebeldia impulsiva à determinação focada
-- Do isolamento à conexão significativa
-- Da negação à aceitação de sua singularidade
-- Do conflito à compreensão familiar
-- Da fuga à busca proposital
 
-## Simbolismo
-- Representa a busca por identidade
-- Simboliza a ruptura com tradições limitantes
-- Encarna o conflito entre dever e desejo
-- Personifica a transformação pessoal
+### Fase 1: Rebeldia e Visões
+- Questionamento constante da realidade
+- Visões inexplicáveis do mundo real
+- Sensação de não pertencimento
 
-## Legado em Desenvolvimento
-- Ponte entre dois mundos
-- Catalisadora de mudanças
-- Descobridora de verdades ocultas
-- Quebradora de paradigmas
+### Fase 2: Descoberta e Crise
+- Fusão com Zion
+- Revelação de sua natureza simulada
+- Crise existencial e questionamento de identidade
 
-## Características Únicas
-- Capacidade de ver além das aparências
-- Conexão especial com anomalias
-- Resistência natural a controle
-- Adaptabilidade excepcional a mudanças
+### Fase 3: Aceitação e Crescimento
+- Compreensão do que significa ser "real"
+- Aceitação de sua natureza única
+- Fortalecimento dos laços apesar da verdade
 
-## Conflito Central
-- Busca por identidade em um mundo que não a compreende
-- Luta entre realidade aparente e verdade intuída
-- Batalha entre conformidade e autenticidade
-- Jornada de autodescoberta através da fusão com Zion
+### Fase 4: Propósito e Amor
+- Decisão de lutar pelo mundo que conhece
+- Desenvolvimento do amor por Zion
+- Redefinição de humanidade e existência
+
+## Temas Filosóficos
+- O que define consciência e humanidade
+- Realidade vs. Simulação
+- Amor e conexões verdadeiras transcendem a natureza física
+- Propósito e significado além da origem
+- Livre arbítrio em um mundo programado
+
+## Habilidades e Desenvolvimento
+- Capacidade latente de aprender a magia do Templo da Probabilidade
+- Compreensão intuitiva de emoções e sentimentos humanos
+- Habilidade natural de encontrar soluções inovadoras devido à sua natureza única
+- Crescente entendimento sobre a fusão entre consciência e tecnologia
+- Dom especial para adaptar e expandir as capacidades do corpo robótico de Zion
+
+### Evolução de Poderes
+- Aprende gradualmente a manipular a magia do Templo da Probabilidade
+- Desenvolve formas únicas de utilizar o corpo robótico de Zion
+- Descobre novas possibilidades na interface entre consciência simulada e tecnologia
+- Sua empatia e compreensão emocional complementam suas habilidades técnicas
+
+## Objetivos
+- Proteger o mundo simulado e seus habitantes
+- Encontrar equilíbrio entre suas duas naturezas
+- Desenvolver relacionamentos genuínos apesar de sua origem
+- Criar seu próprio significado de existência
+- Construir um futuro que transcenda as limitações de sua criação

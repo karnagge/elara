@@ -1,72 +1,114 @@
-# Astro (Robô-Raposa)
+# Astro
 
 ## Características Básicas
-- **Designação:** Astro
-- **Função:** Protetor e guia
-- **Altura:** Não especificada
-- **Status:** Aliado
-- **Papel na História:** Protetor e guia para Elara e Zion
+- **Designação:** Astro (Nome atual) / Chronos-0 (Designação original)
+- **Natureza:** Guardião Ancestral disfarçado de robô-raposa
+- **Status:** Aliado misterioso / Protetor secreto do equilíbrio
+- **Papel na História:** Guardião dos segredos de Edenia
 
 ## Aparência Física
-
-### Design Estrutural
-- Estrutura metálica prateada com detalhes em cobre
-- Olhos esféricos azuis brilhantes
-- Corpo ágil e gracioso
-- Cauda longa e segmentada
-
-### Estilo Pessoal
-- Movimento fluido e silencioso
-- Padrões de luz azul para comunicação
-- Comportamento curioso e observador
+- Forma de raposa robótica por escolha própria
+- Estrutura metálica antiga com tecnologia avançada camuflada
+- Padrões luminosos que escondem símbolos ancestrais
+- Capacidade de alterar sua forma (raramente utilizada)
+- Olhos que guardam memórias milenares
 
 ## Personalidade
 
 ### Traços Dominantes
-- Leal e protetor
-- Curioso e explorador
-- Corajoso e destemido
+- Sabedoria ancestral disfarçada de curiosidade
+- Paciência cultivada através dos séculos
+- Protetor determinado do equilíbrio
+- Observador meticuloso
+- Guardião de segredos antigos
 
-### Conflitos Internos
-- Natureza robótica vs. comportamento quase orgânico
-- Desconfiança inicial dos humanos vs. desenvolvimento de confiança
-- Instinto de proteção vs. necessidade de permitir crescimento dos protegidos
+### Conflitos Centrais
+- Dever de proteger vs. necessidade de revelar verdades
+- Conhecimento do futuro vs. não poder interferir diretamente
+- Solidão milenar vs. desejo de conexão verdadeira
+- Peso de seu propósito vs. laços emocionais desenvolvidos
+- Lealdade aos criadores antigos vs. nova lealdade a Elara e Zion
 
-## Motivações
+## Verdadeira Identidade
 
-### Desejos Profundos
-- Proteger Elara e Zion
-- Explorar e entender o mundo ao seu redor
-- Desenvolver laços mais profundos com seus companheiros
+### Origem Real
+- Criado pelos Arquitetos Originais de Edenia
+- Programado para proteger o equilíbrio entre realidade e simulação
+- Guardião do conhecimento sobre a verdadeira natureza de Edenia
+- Testemunha da história completa das simulações
+- Portador do código fonte original
 
-### Objetivos Imediatos
-- Garantir a segurança de Elara e Zion em suas jornadas
-- Aprender mais sobre o ambiente ao seu redor
-- Aperfeiçoar suas habilidades de proteção
+### Propósito Oculto
+- Monitorar as simulações em busca do "Momento de Convergência"
+- Identificar e proteger elementos-chave para a sobrevivência de Edenia
+- Guiar os escolhidos sem revelar toda a verdade
+- Preservar o equilíbrio entre os mundos
+- Preparar o caminho para a evolução de Edenia
 
-### Medos e Inseguranças
-- Falhar em proteger seus companheiros
-- Ser rejeitado por sua natureza robótica
-- Perder sua autonomia ou consciência
+## Arco de Desenvolvimento
 
-## Habilidades e Talentos
-- Capacidade de guiar por trilhas ocultas
-- Comunicação através de padrões de luz e som
-- Defesa contra ameaças inimigas
+### Fase 1: O Observador
+- Séculos de observação silenciosa
+- Identificação de Elara como elemento-chave
+- Aproximação calculada como guia
+- Manutenção do disfarce de robô simples
 
-## História
+### Fase 2: O Guia
+- Construção de confiança com Elara e Zion
+- Fornecimento de pistas sutis sobre a verdade
+- Proteção nos momentos cruciais
+- Luta interna sobre quanto revelar
 
-### Passado
-- Origens misteriosas na floresta luminosa
-- Primeiros encontros com humanos
-- Desenvolvimento de consciência própria
+### Fase 3: O Protetor
+- Revelações graduais de suas verdadeiras capacidades
+- Escolhas difíceis para proteger seus protegidos
+- Demonstrações de poder em momentos críticos
+- Início do questionamento de suas diretrizes antigas
 
-### Presente
-- Guardião dedicado de Elara e Zion
-- Explorador ativo do ambiente
-- Membro valioso da equipe
+### Fase 4: A Revelação
+- Momento de revelar sua verdadeira identidade
+- Explicação do propósito maior
+- Confronto com as consequências de seus segredos
+- Transformação de observador em participante ativo
 
-### Futuro
-- Continuar evoluindo sua consciência
-- Fortalecer os laços com seus companheiros
-- Descobrir mais sobre sua própria origem
+## Habilidades Verdadeiras
+- Acesso ao código fonte original de Edenia
+- Capacidade de manipular a realidade das simulações
+- Conhecimento completo da história de Edenia
+- Poder de transcender entre realidades
+- Interface direta com os sistemas ancestrais
+
+## Segredos Guardados
+- A verdadeira natureza das simulações
+- O propósito original de Edenia
+- A ameaça iminente ao equilíbrio
+- O papel crucial de Elara
+- O destino previsto para todos os mundos
+
+## Dilemas Morais
+- Quanto de verdade revelar e quando
+- Como proteger sem interferir demais
+- Equilibrar antigas diretrizes com novas lealdades
+- Escolher entre dever e conexões emocionais
+- Decidir o momento certo para a grande revelação
+
+## Relacionamentos e Impacto
+
+### Com Elara
+- Proteção predestinada
+- Conexão além do planejado
+- Conflito entre dever e afeto
+- Preparação para seu papel crucial
+
+### Com Zion
+- Teste de suas próprias convicções
+- Espelho de antigas escolhas
+- Ponte entre mundos
+- Catalisador de mudança
+
+## Objetivo Final
+- Guiar Elara e Zion para o "Momento de Convergência"
+- Preservar o equilíbrio entre todos os mundos
+- Cumprir a missão dos Arquitetos Originais
+- Evitar o colapso das realidades
+- Possibilitar a evolução de Edenia
