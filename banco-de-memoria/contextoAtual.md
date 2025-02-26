@@ -52,6 +52,21 @@ O projeto encontra-se em desenvolvimento ativo, com o prólogo finalizado e vali
 - Scripts de suporte para análise de texto
 - Diretrizes técnicas para manter consistência
 - Templates para desenvolvimento de personagens e cenas
+- Cenas de referência do Feu Franco analisadas:
+  1. Cena de Combate Ritual
+     - Guia para equilíbrio entre ação e profundidade
+     - Referência para integração de elementos fantásticos/tecnológicos
+     - Modelo para construção de cenas de conflito físico e decisão
+  2. Cena de Conflito Emocional
+     - Desenvolvimento psicológico profundo
+     - Tratamento de inseguranças e vulnerabilidades
+     - Equilíbrio entre humor e drama em momentos tensos
+     - Uso de metáforas e detalhes para estados emocionais
+  3. Prólogo Inovador
+     - Técnicas de quebra da quarta parede
+     - Construção sofisticada de mistério
+     - Gestão estratégica de informação
+     - Estabelecimento de pacto com o leitor
 
 ## Status de Revisão
 - Prólogo: Finalizado e validado

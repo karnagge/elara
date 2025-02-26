@@ -31,6 +31,19 @@
 - Documentação detalhada de personagens e locais
 - Scripts de suporte para análise
 - Tom narrativo estabelecido no prólogo
+- Referências técnicas do Feu Franco para:
+  1. Construção de Cenas de Ação
+     - Integração de elementos fantásticos/tecnológicos
+     - Equilíbrio entre ação física e profundidade psicológica
+  2. Desenvolvimento Emocional
+     - Construção de conflitos internos complexos
+     - Tratamento de vulnerabilidades e inseguranças
+     - Uso efetivo de humor em momentos dramáticos
+  3. Técnicas de Prólogo
+     - Quebra inovadora da quarta parede
+     - Construção estratégica de mistério
+     - Estabelecimento de conexão com leitor
+     - Manipulação sofisticada de temporalidade
 
 ## O que Precisa ser Escrito
 1. **Alta Prioridade**
