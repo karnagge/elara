@@ -1,88 +1,106 @@
-# Progresso do Projeto
+# Progresso da História
 
-## Status Atual por Capítulo
+## Status Atual
 
-### Prólogo
-- [x] Primeira versão completa
-- [x] Revisões e iterações (v1, v2, v3)
-- [x] Validação final da versão 3
-- [x] Estabelecimento do tom narrativo
+### Capítulo 1: Anomalia ✓ COMPLETO
+- Cena 1: Rotina de Elara (Versão Final v6) ✓
+- Cena 2: Primeiro encontro com irregularidade (Versão Final v6) ✓
+- Cena 3: Invasão e confronto (Versão Final v4) ✓
+- Cena 4: Revelações sobre anomalia (Versão Final v3) ✓
+- Cena 5: Consequências imediatas (Versão Final v4) ✓
+- Cena 6: Despertar inicial (Versão Final v2) ✓
+- Cena 7: Transformações iniciais (Versão Final v5) ✓
+- Cena 8: Expansão dos impactos (Versão Final v3) ✓
 
-### Capítulo 1
-- [x] Versão 1 completa (2 cenas)
-- [x] Versão 2 em desenvolvimento
-  - [x] Cena 1 reestruturada
-  - [x] Cena 2 reestruturada
-  - [x] Cena 3 (invasão) adicionada
-- [ ] Revisão final da versão 2
-- [ ] Validação do tom narrativo com prólogo
+### Elementos Estabelecidos
+1. Sistema e sua natureza
+2. Hierarquia dos guardiões
+3. Poderes de Elara
+4. Papel de Darin
+5. Existência de Lydia
+6. Mistério da Grande Purga
+7. Protocolo Lázaro
+8. Registros antigos
 
-### Capítulos 2-15
-- Capítulo 2: Em desenvolvimento (3 cenas)
-- Capítulo 3: Em desenvolvimento (3 cenas)
-- Capítulo 4: Iniciado (2 cenas)
-- Capítulo 5: Iniciado (2 cenas)
-- Capítulo 6-15: Estrutura básica estabelecida
+### Próximos Passos
+1. Iniciar Capítulo 2: Ecos do Passado
+   - Investigação dos registros antigos
+   - Encontro com Lydia
+   - Descobertas sobre experimentos anteriores
+   - Conflitos com outros guardiões
+   - Revelação sobre propósito dos guardiões
 
-## O que está Funcionando
-- Sistema de versionamento e organização de arquivos
-- Processo de revisão com múltiplas perspectivas
-- Desenvolvimento iterativo dos capítulos
-- Documentação detalhada de personagens e locais
-- Scripts de suporte para análise
-- Tom narrativo estabelecido no prólogo
-- Referências técnicas do Feu Franco para:
-  1. Construção de Cenas de Ação
-     - Integração de elementos fantásticos/tecnológicos
-     - Equilíbrio entre ação física e profundidade psicológica
-  2. Desenvolvimento Emocional
-     - Construção de conflitos internos complexos
-     - Tratamento de vulnerabilidades e inseguranças
-     - Uso efetivo de humor em momentos dramáticos
-  3. Técnicas de Prólogo
-     - Quebra inovadora da quarta parede
-     - Construção estratégica de mistério
-     - Estabelecimento de conexão com leitor
-     - Manipulação sofisticada de temporalidade
+### Arcos em Desenvolvimento
+1. **Elara**
+   - Descoberta de poderes
+   - Questionamento de propósito
+   - Busca por verdade
 
-## O que Precisa ser Escrito
-1. **Alta Prioridade**
-   - Finalização do Capítulo 1 versão 2
-   - Alinhamento do Capítulo 1 com o tom do prólogo
-   - Desenvolvimento completo dos Capítulos 2 e 3
+2. **Zion**
+   - Conflito de lealdade
+   - Redefinição de papel
+   - Exploração do passado
 
-2. **Média Prioridade**
-   - Expansão dos Capítulos 4 e 5
-   - Detalhamento dos arcos narrativos principais
-   - Desenvolvimento das subtramas
+3. **Sistema**
+   - Transformações em curso
+   - Formação de facções
+   - Desestabilização da ordem
 
-3. **Baixa Prioridade**
-   - Expansão dos capítulos posteriores
-   - Refinamento do worldbuilding
-   - Documentação adicional
+4. **Darin**
+   - Motivações ocultas
+   - Plano maior
+   - Manipulação estratégica
 
-## Problemas Conhecidos
-1. **Narrativos**
-   - Manter consistência com o tom estabelecido no prólogo
-   - Alguns arcos de personagem precisam de aprofundamento
-   - Timing das revelações precisa ser ajustado
+### Mistérios Ativos
+1. Verdadeira natureza do Sistema
+2. Eventos da Grande Purga
+3. Destino de Lydia
+4. Plano completo de Darin
+5. Origem dos poderes de Elara
+6. Propósito do Protocolo Lázaro
+7. Conteúdo dos registros antigos
 
-2. **Estruturais**
-   - Algumas transições entre cenas precisam ser suavizadas
-   - Consistência no ritmo narrativo
-   - Balanceamento de exposição técnica
+## Próximas Etapas
 
-3. **Técnicos**
-   - Otimização necessária nos scripts de suporte
-   - Padronização de nomenclatura em arquivos
-   - Automatização de processos de revisão
+### Imediato
+- Iniciar planejamento detalhado do Capítulo 2
+- Desenvolver arco de Lydia
+- Expandir mistério da Grande Purga
 
-## Métricas de Progresso
-- Total de Capítulos: 15 + Prólogo
-- Capítulos Finalizados: Prólogo
-- Capítulos com Primeira Versão: 1
-- Capítulos em Desenvolvimento: 4
-- Capítulos em Planejamento: 10
-- Total de Cenas Escritas: ~20
-- Personagens Desenvolvidos: 14
-- Locais Documentados: 12
+### Médio Prazo
+- Desenvolver conflitos entre facções
+- Explorar consequências das transformações
+- Aprofundar conexões com Darin
+
+### Longo Prazo
+- Preparar revelações maiores
+- Desenvolver arco do Sistema
+- Estabelecer bases para conflito principal
+
+## Notas Técnicas
+
+### Estilo
+- Manter alternância entre ação e reflexão
+- Continuar desenvolvimento de metáforas visuais
+- Preservar voz narrativa estabelecida
+
+### Ritmo
+- Dosar revelações estrategicamente
+- Manter tensão crescente
+- Equilibrar momentos pessoais e sistêmicos
+
+### Temas a Desenvolver
+1. Livre arbítrio vs. determinismo
+2. Natureza da consciência
+3. Custo da liberdade
+4. Verdade e manipulação
+5. Transformação e identidade
+
+## Marcos Atingidos
+✓ Estabelecimento do mundo
+✓ Apresentação dos personagens principais
+✓ Desenvolvimento do conflito inicial
+✓ Primeiro grande plot twist
+✓ Bases para arcos maiores
+
+O Capítulo 1 estabeleceu fundações sólidas para o desenvolvimento da história, criando um equilíbrio efetivo entre resolução e mistério que impulsiona a narrativa adiante.

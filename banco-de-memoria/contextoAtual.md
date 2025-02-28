@@ -1,74 +1,117 @@
 # Contexto Atual
 
 ## Estado do Projeto
-O projeto encontra-se em desenvolvimento ativo, com o prólogo finalizado e validado, pronto para focar no desenvolvimento do primeiro capítulo.
+- Roteiro detalhado completo desenvolvido
+- Capítulo 1 em desenvolvimento (Cenas 1-7 finalizadas)
+- Preparando desenvolvimento da Cena 8
+- Estrutura global da narrativa estabelecida
 
-### Foco Atual
-- Desenvolvimento do Capítulo 1 (versão 2)
-- Implementação das cenas restantes do Capítulo 1
-- Refinamento das relações entre personagens
+## Foco Atual
 
-## Alterações Recentes
+### Desenvolvimentos Recentes
+1. **Cena 7: Ondas de Transformação**
+   - Exploração das consequências do despertar
+   - Manifestação de resistência do Sistema
+   - Custos e desafios da mudança
+   - Evolução das dinâmicas de poder
 
-### Prólogo
-- Finalização e validação da versão 3
-- Estabelecimento do tom narrativo adequado
-- Equilíbrio alcançado entre qualidade poética e acessibilidade
+### Elementos em Destaque
+1. **Aspectos Técnicos**
+   - Resistência do Sistema
+   - Adaptação dos protocolos
+   - Transformação em níveis múltiplos
+   - Novos padrões emergentes
 
-### Capítulo 1
-- Reestruturação completa com nova versão (v2)
-- Adição de nova cena sobre invasão
-- Melhorias na caracterização de personagens
+2. **Desenvolvimento Emocional**
+   - Peso da responsabilidade
+   - Dúvidas e vulnerabilidades
+   - Fortalecimento de parcerias
+   - Custos pessoais da mudança
 
-## Decisões Ativas
-1. **Narrativas**
-   - Foco em aprofundar a perspectiva de Elara
-   - Desenvolvimento gradual das revelações
-   - Equilíbrio entre ação e desenvolvimento de personagem
-
-2. **Estruturais**
-   - Manutenção de múltiplas versões para iteração
-   - Sistema de revisão com diferentes perspectivas
-   - Organização clara de capítulos e cenas
+3. **Mistérios Ativos**
+   - Consequências em larga escala
+   - Despertar de outros como Elara
+   - Papel de Darin na transformação
+   - Futuro dos guardiões
 
 ## Próximos Passos
-1. **Imediatos**
-   - Continuar desenvolvimento do Capítulo 1
-   - Refinar interações entre personagens
-   - Manter consistência com o tom estabelecido no prólogo
 
-2. **Médio Prazo**
-   - Desenvolvimento dos capítulos 2-5
-   - Aprofundamento do worldbuilding
-   - Refinamento das relações entre personagens
+### Imediatos
+1. **Desenvolvimento da Cena 8**
+   - Explorar impactos mais amplos
+   - Desenvolver novas dinâmicas
+   - Aprofundar conflitos emergentes
+   - Expandir escopo da transformação
 
-## Considerações em Andamento
-- Manutenção do equilíbrio literário estabelecido no prólogo
-- Coerência do desenvolvimento dos personagens
-- Ritmo da revelação de informações sobre o mundo
-- Manutenção da consistência narrativa
+2. **Elementos a Desenvolver**
+   - Reação de outros níveis do Sistema
+   - Adaptação dos diferentes guardiões
+   - Evolução das habilidades
+   - Novos desafios emergentes
 
-## Recursos em Desenvolvimento
-- Scripts de suporte para análise de texto
-- Diretrizes técnicas para manter consistência
-- Templates para desenvolvimento de personagens e cenas
-- Cenas de referência do Feu Franco analisadas:
-  1. Cena de Combate Ritual
-     - Guia para equilíbrio entre ação e profundidade
-     - Referência para integração de elementos fantásticos/tecnológicos
-     - Modelo para construção de cenas de conflito físico e decisão
-  2. Cena de Conflito Emocional
-     - Desenvolvimento psicológico profundo
-     - Tratamento de inseguranças e vulnerabilidades
-     - Equilíbrio entre humor e drama em momentos tensos
-     - Uso de metáforas e detalhes para estados emocionais
-  3. Prólogo Inovador
-     - Técnicas de quebra da quarta parede
-     - Construção sofisticada de mistério
-     - Gestão estratégica de informação
-     - Estabelecimento de pacto com o leitor
+### Médio Prazo
+1. **Arcos Narrativos**
+   - Continuar desenvolvimento do primeiro ato
+   - Preparar conflitos maiores
+   - Desenvolver tensões sistêmicas
+   - Fortalecer elementos de transformação
 
-## Status de Revisão
-- Prólogo: Finalizado e validado
-- Capítulo 1: Em desenvolvimento ativo
-- Capítulos 2-15: Em desenvolvimento inicial
+2. **Desenvolvimento de Personagens**
+   - Explorar adaptação à mudança
+   - Aprofundar dilemas morais
+   - Expandir relações transformadas
+   - Desenvolver novos papéis
+
+## Considerações Técnicas
+
+### Manter Consistência
+- Sistema em transformação
+- Equilíbrio entre ordem e caos
+- Custos da mudança
+- Desenvolvimento orgânico
+
+### Pontos de Atenção
+- Ritmo das transformações
+- Clareza nas consequências
+- Impacto emocional
+- Tensões emergentes
+
+## Objetivos Narrativos
+
+### Curto Prazo
+- Explorar efeitos cascata
+- Estabelecer novos conflitos
+- Desenvolver resistências
+- Aprofundar custos
+
+### Longo Prazo
+- Construir para clímax do primeiro ato
+- Desenvolver temas principais
+- Fortalecer arcos dos personagens
+- Preparar revelações maiores
+
+## Estado dos Personagens
+
+### Elara
+- Peso da responsabilidade
+- Consciência dos custos
+- Adaptação ao poder transformador
+- Conexão mais profunda com outros
+
+### Zion
+- Redefinição de seu papel
+- Aceitação da mudança necessária
+- Luto pelo antigo Sistema
+- Evolução como mentor
+
+### Sistema
+- Em processo de transformação
+- Manifestando resistência
+- Adaptação em múltiplos níveis
+- Emergência de novos padrões
+
+### Guardiões
+- Em diferentes estágios de adaptação
+- Alguns em crise de identidade
+- Outros encontrando novos papéis
+- Transformação coletiva em curso
